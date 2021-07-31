@@ -1,10 +1,8 @@
-<h3 align="center"> Stats </h3>
-<div align="center">
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davetpj&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="center">
-<h3 align="center">🛠 Stack </h3>
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
@@ -21,7 +19,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white"/>
-</div>
+
 <!-- <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 <br> -->
 
